@@ -1,0 +1,9 @@
+24.75365	46.62900	0	0	Buy water
+24.72294	46.61978	5	0	Submit PA male
+24.72294	46.61838	5	0	Submit HW male
+24.72328	46.63640	5	4	Submit PA female
+24.72328	46.63540	5	4	Submit HW female
+24.72062	46.62248	1	0	Ask for room reparations
+24.75213	46.62443	1	0	Buy notebook
+24.74203	46.65809	0	0	Buy milk
+24.71144	46.62124	1	0	Make doctor appointment
